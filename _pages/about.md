@@ -27,7 +27,8 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔥 News
 - 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
-- **[2025-09-01] Postdoctoral Position Available:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后, 欢迎有意向者联系冯大权教授.
+- **[2025-09-01] Postdoctoral Position Available:**
+- <span style="color:red;">Postdoctoral Position Available</span>:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后, 欢迎有意向者联系冯大权教授.
 - [CFP]: We are organizing workshops on "Intelligent Surfaces and Analog Computing" at IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026. We cordially invite submissions from researchers and practitioners working in related areas.
 
   IEEE GLOBECOM 2026, Macao  
