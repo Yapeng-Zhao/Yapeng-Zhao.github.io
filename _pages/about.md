@@ -27,18 +27,23 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔥 News
 - 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
-- **[2025-09-01] Postdoctoral Position Available:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn). 课题组长期招聘博士后，欢迎有意向者联系冯大权教授.
+- **[2025-09-01] Postdoctoral Position Available:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后，欢迎有意向者联系冯大权教授.
 - [CFP]: We are organizing workshops on "Intelligent Surfaces and Analog Computing" at IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026. We cordially invite submissions from researchers and practitioners working in related areas.
 
-IEEE GLOBECOM 2026, Macao  
-Submission deadline: August 10, 2026  
-Submission link: https://globecom2026.ieee-globecom.org/
+  IEEE GLOBECOM 2026, Macao  
+  Submission deadline: August 10, 2026  
+  Submission link: https://globecom2026.ieee-globecom.org/
 
-IEEE/CIC ICCC 2026, Wuhan  
-Submission deadline: June 15, 2026  
-Submission link: https://iccc2026.ieee-iccc.org/
+  IEEE/CIC ICCC 2026, Wuhan  
+  Submission deadline: June 15, 2026  
+  Submission link: https://iccc2026.ieee-iccc.org/
 
-We warmly welcome your submissions and would greatly appreciate it if you could share this call with interested colleagues and students.
+## 招生信息
+
+  1. 基本信息：招收2-3名硕士生/年，欢迎计算机、通信、数学等相关背景的同学，同时欢迎有发文章意向的本科生进组。
+  2. 指导经验：近些年指导同门师弟师妹及学生，均发表于IEEE期刊或会议，可向我或任意合作者详细了解。
+  3. 要求：认真做事，多思考，多交流。
+  4. 其他：经费充足，投稿、中稿均有奖励。满足毕业指标（学分+论文）后，支持学生去实习或者交流
 
 # 🔎 Research
 
