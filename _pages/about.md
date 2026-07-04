@@ -19,7 +19,7 @@ redirect_from:
 
 Male, born in Anhui Province, mainland China in 1998. 
 
-Yapeng Zhao is currently pursuing the PhD degree in Electrical and Computer Engineering, [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau under the supervision of [Prof. Shaodan Ma (SMIEEE, IEEE ComSoc Distinguished Lecturer)](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu(Associate Professor at Shanghai Jiao Tong University)](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en).
+Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, in August 2025, under the supervision of [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en). He received the B.Eng. degree from Jilin University in 2017 and the M.Eng. degree from Shanghai University in 2020, where he was jointly trained at the Shanghai Advanced Research Institute, Chinese Academy of Sciences.
 
 His current research interests include intelligent reflecting surface (IRS), integrated sensing and communications (ISAC), integrated sensing, communications, and computation (ISCC), multi-modal ISAC, and immersive communication. He has a strong background in wireless communications and mathematical skills, especially the non-convex optimization for wireless communication system. **He has published several papers on wireless communication systems inclouding 5 first author journal papers. with total <a href='https://scholar.google.com/citations?user=vBmgzKYAAAAJ'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYapeng-Zhao%2FYapeng-Zhao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.**
 
@@ -27,6 +27,7 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔥 News
 - 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
+- **[2025-09-01] Postdoctoral Position Available:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn). 课题组长期招聘博士后，欢迎有意向者联系冯大权教授.
 
 # 🔎 Research
 
