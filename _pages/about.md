@@ -53,7 +53,7 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 ## 个人爱好
 
-  1. 各类球类运动，羽毛球等
+  1. 各类球类运动, 羽毛球等
   2. TBD
 
 ## Research Interests
