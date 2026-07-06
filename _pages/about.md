@@ -23,7 +23,13 @@ Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering fro
 
 His current research interests include intelligent reflecting surface (IRS), integrated sensing and communications (ISAC), integrated sensing, communications, and computation (ISCC), multi-modal ISAC, and immersive communication. He has a strong background in wireless communications and mathematical skills, especially the non-convex optimization for wireless communication system. **He has published several papers on wireless communication systems inclouding 5 first author journal papers. with total <a href='https://scholar.google.com/citations?user=vBmgzKYAAAAJ'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYapeng-Zhao%2FYapeng-Zhao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.**
 
+# 🔎 Research
 
+## Multi-functional network: integrate communication, sensing, computing, and intelligence.
+
+## Multi-modal sensing and communication.
+
+## Immersive Communication: XR, Meta Human.
 
 # 🔥 News
 - 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
@@ -42,16 +48,13 @@ His current research interests include intelligent reflecting surface (IRS), int
 
   1. 基本信息: 招收2-3名硕士生/年, 欢迎计算机 通信 数学等相关背景的同学, 同时非常欢迎有发文章或毕设意向的本科生进组
   3. 指导经验: 近些年指导同门师弟师妹及学生, 均发表于IEEE期刊或会议, 可向我或任意合作者详细了解
-  4. 要求: 认真做事, 多思考, 多交流
-  5. 其他: 经费充足, 投稿, 中稿均有奖励. 满足毕业指标（学分，论文）后, 支持学生去实习或者交流
+  4. 要求: 务必认真细致做事, 多思考, 多交流
+  5. 其他: 不打卡，经费充足, 投稿, 中稿均有奖励. 满足毕业指标（学分，论文）后, 支持学生去实习或者交流
 
-# 🔎 Research
+## 个人爱好
 
-## 🔥 Multi-functional network: integrate communication, sensing, computing, and intelligence.
-
-## 🔥 Multi-modal sensing and communication.
-
-## 🔥 Immersive Communication: XR, Meta Human.
+  1. 各类球类运动，羽毛球等
+  2. TBD
 
 ## Research Interests
 
