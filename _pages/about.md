@@ -44,12 +44,19 @@ His current research interests include intelligent reflecting surface (IRS), int
   Submission deadline: June 15, 2026  
   Submission link: https://iccc2026.ieee-iccc.org/
 
+
+## Projects/项目
+
+  1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人
+  2. 链网融合技术教育工程研究中心, 2025年度开放课题
+  3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金
+
 ## 招生信息
 
   1. 基本信息: 招收2-3名硕士生/年, 欢迎计算机 通信 数学等相关背景的同学, 同时非常欢迎有发文章或毕设意向的本科生进组
-  3. 指导经验: 近些年指导同门师弟师妹及学生, 均发表于IEEE期刊或会议, 可向我或任意合作者详细了解
-  4. 要求: 务必认真细致做事, 多思考, 多交流
-  5. 其他: 不打卡，经费充足, 投稿, 中稿均有奖励. 满足毕业指标（学分，论文）后, 支持学生去实习或者交流
+  2. 指导经验: 近些年指导同门师弟师妹及学生, 均发表于IEEE期刊或会议, 可向我或任意合作者详细了解
+  3. 要求: 务必认真细致做事, 多思考, 多交流
+  4. 其他: 不打卡，经费充足, 投稿, 中稿均有奖励. 满足毕业指标（学分，论文）后, 支持学生去实习或者交流
 
 ## 个人爱好
 
@@ -58,7 +65,8 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 ## Research Interests
 
-# 📝 Publications 
+
+## 📝 Publications 
 
 [**Representative Publications (by Topic)**](#representative-publications-by-topic) | [**List of Publications (by Topic)**](#list-of-publications-by-topic)
 ## Representative Publications (by Topic)
@@ -66,10 +74,6 @@ His current research interests include intelligent reflecting surface (IRS), int
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
 
 
-### Over-the-air Computation (AirComp)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>IEEE IOJT</div><img src='images/paper/fig_comp_when_comm.png' alt='sym' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
 
 Z. Wang, **Y. Zhao**&dagger;, Y. Zhou, Y. Shi, C. Jiang and K. B. Letaief, "[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://ieeexplore.ieee.org/abstract/document/10538293)," in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 24634-24658, Jul. 2024.
 
