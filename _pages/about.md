@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='bio'></span>
 
+# About
+
 Male, born in Anhui Province, mainland China in 1998. 
 
 Assistant Professor, Shenzhen University, College of Electronic and Information Engineering
@@ -27,11 +29,11 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔎 Research
 
-## Multi-functional network: integrate communication, sensing, computing, and intelligence.
-
-## Multi-modal sensing and communication.
-
-## Immersive Communication: XR, Meta Human.
+- **Multimodal communication and semantic communication:** efficient transmission and task-oriented communication for multimodal information and AIGC applications.
+- **Integrated sensing, communication, and computation (ISCC):** joint waveform, beamforming, resource allocation, and task-computation design.
+- **Integrated sensing and communication (ISAC):** sensing-communication co-design for intelligent wireless environments.
+- **Intelligent reflecting surfaces (IRS/RIS):** passive beamforming, wireless-powered systems, federated learning, and over-the-air computation.
+- **Immersive communication:** communication and networking technologies for XR and digital-human applications.
 
 # 🔥 News
 - 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
@@ -49,9 +51,9 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 ## Projects/项目
 
-  1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人
-  2. 链网融合技术教育工程研究中心, 2025年度开放课题
-  3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金
+  1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人; **Research on intelligent-agent communication scenarios and key technologies for 6G**, National Key Research and Development Program of China, 2025–2028; sub-project lead.
+  2. 链网融合技术教育工程研究中心, 2025年度开放课题; **Research Center for Education Engineering of Integrated Network and Blockchain Technologies**, 2025 open research project.
+  3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金; **Intelligent Sensing Systems and Security**, Ministry of Education Key Laboratory, 2026 open-fund project.
 
 ## 招生信息
 
@@ -76,8 +78,11 @@ His current research interests include intelligent reflecting surface (IRS), int
 (&dagger; for Equal Contribution; * for Corresponding Authorship.)
 
 
-
-Z. Wang, **Y. Zhao**&dagger;, Y. Zhou, Y. Shi, C. Jiang and K. B. Letaief, "[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://ieeexplore.ieee.org/abstract/document/10538293)," in IEEE Internet of Things Journal, vol. 11, no. 14, pp. 24634-24658, Jul. 2024.
+1. **Y. Zhao**, Q. Wu, W. Chen, C. Wu, and H. V. Poor, “[Performance-Oriented Design for Intelligent Reflecting Surface-Assisted Federated Learning](https://doi.org/10.1109/TCOMM.2023.3283799),” *IEEE Transactions on Communications*, vol. 71, no. 9, pp. 5228–5243, Sept. 2023.
+2. **Y. Zhao**, Q. Wu, W. Chen, C. Wu, and O. A. Dobre, “Intelligent Reflecting Surface Assisted Multi-Cluster AirComp via Dynamic Beamforming,” *IEEE Communications Letters*, vol. 27, no. 10, pp. 2827–2831, Oct. 2023.
+3. **Y. Zhao**, Q. Wu, G. Chen, W. Chen, R. Liu, M.-M. Zhao, Y. Wu, and S. Ma, “[Intelligent Reflecting Surface Aided Multi-Tier Hybrid Computing](https://doi.org/10.1109/JSTSP.2023.3332455),” *IEEE Journal of Selected Topics in Signal Processing*, vol. 18, no. 1, pp. 83–97, Jan. 2024.
+4. Z. Wang, **Y. Zhao**&dagger;, Y. Zhou, Y. Shi, C. Jiang, and K. B. Letaief, “[Over-the-Air Computation for 6G: Foundations, Technologies, and Applications](https://doi.org/10.1109/JIOT.2024.3404902),” *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24634–24658, Jul. 2024.
+5. **Y. Zhao**, Q. Wu, W. Chen, Y. Zeng, R. Liu, W. Mei, F. Hou, and S. Ma, “Multi-Functional Beamforming Design for Integrated Sensing, Communication, and Computation,” *IEEE Transactions on Communications*, vol. 73, no. 8, pp. 6322–6336, Aug. 2025.
 
 
 
