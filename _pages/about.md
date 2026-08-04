@@ -29,7 +29,7 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔎 Research
 
-- **Multimodal communication and semantic communication:** efficient transmission and task-oriented communication for multimodal information and AIGC applications.
+- **Multimodal sensing and communication:** task-oriented sensing and communication for multimodal information and AIGC applications.
 - **Integrated sensing, communication, and computation (ISCC):** joint waveform, beamforming, resource allocation, and task-computation design.
 - **Integrated sensing and communication (ISAC):** sensing-communication co-design for intelligent wireless environments.
 - **Intelligent reflecting surfaces (IRS/RIS):** passive beamforming, wireless-powered systems, federated learning, and over-the-air computation.
