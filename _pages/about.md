@@ -21,7 +21,7 @@ redirect_from:
 
 Male, born in Anhui Province, mainland China in 1998. 
 
-Assistant Professor, Shenzhen University, College of Electronic and Information Engineering
+**Assistant Professor, Shenzhen University,** College of Electronic and Information Engineering
 
 Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, in August 2025, under the supervision of [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en). He received the B.Eng. degree from Jilin University in 2017 and the M.Eng. degree from Shanghai University in 2020, where he was jointly trained at the Shanghai Advanced Research Institute, Chinese Academy of Sciences.
 
@@ -52,8 +52,8 @@ His current research interests include intelligent reflecting surface (IRS), int
 ## Projects/项目
 
   1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人; [EN] **Research on intelligent-agent communication scenarios and key technologies for 6G**, National Key Research and Development Program of China, 2025–2028, Sub-I.
-  2. 链网融合技术教育工程研究中心, 2025年度开放课题; [EN] **Research Center for Education Engineering of Network–Blockchain Integration**, 2025 Open Research Project, PI.
-  3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金; [EN] **Key Laboratory of Intelligent Sensing Systems and Security, Ministry of Education**, Ministry of Education Key Laboratory, 2026 Open Fund Project, PI.
+  2. 链网融合技术教育工程研究中心, 2025年度开放课题; [EN] Engineering Research Center of Blockchain and Network Convergence Technology, Ministry of Education, 2025 Open Research Project, PI.
+  3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金; [EN] Key Laboratory of Intelligent Sensing System and Security (Ministry of Education), 2026 Open Research Fund Project, PI.
 
 
 ## 招生信息
