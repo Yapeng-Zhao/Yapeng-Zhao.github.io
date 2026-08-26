@@ -51,9 +51,10 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 ## Projects/项目
 
-  1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人; [EN] **Research on intelligent-agent communication scenarios and key technologies for 6G**, National Key Research and Development Program of China, 2025–2028, Sub-I.
+  1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人; [EN] Research on intelligent-agent communication scenarios and key technologies for 6G, National Key Research and Development Program of China, 2025.12–2028.11, Sub-I.
   2. 链网融合技术教育工程研究中心, 2025年度开放课题; [EN] Engineering Research Center of Blockchain and Network Convergence Technology, Ministry of Education, 2025 Open Research Project, PI.
   3. 智能感知系统与安全教育部重点实验室, 2026年度开放基金; [EN] Key Laboratory of Intelligent Sensing System and Security (Ministry of Education), 2026 Open Research Fund Project, PI.
+  4. 通感算融合网络中跨域协同与智能组网机理研究, 国家自然科学基金青年科学基金项目 (C类),  2027.01–2029.12, 项目负责人; [EN] Research on Mechanisms of Cross-Domain Cooperation and Intelligent Network Planning in Integrated Sensing, Communication, and Computation Networks, National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category C), 2027.01–2029.12, PI.
 
 
 ## 招生信息
