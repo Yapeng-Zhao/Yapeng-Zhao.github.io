@@ -36,8 +36,9 @@ His current research interests include intelligent reflecting surface (IRS), int
 - **Immersive communication:** communication and networking technologies for XR and digital-human applications.
 
 # 🔥 News
-- 2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).
+- **2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).**
 - **<span style="color:red;">Postdoctoral Position Available</span>:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后, 欢迎有意向者联系冯大权教授.
+- I have been appointed as a member of the Youth Editorial Board of **Journal of Intelligent Computing and Networking (JICN)**.
 - [CFP]: We are organizing workshops on "Intelligent Surfaces and Analog Computing" at IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026. We cordially invite submissions from researchers and practitioners working in related areas.
 
   IEEE GLOBECOM 2026, Macao  
