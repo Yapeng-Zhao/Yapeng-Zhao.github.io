@@ -37,7 +37,7 @@ His current research interests include intelligent reflecting surface (IRS), int
 
 # 🔥 News
 - **2025-09-01 -- Now: Shenzhen University, Assistant Professor. College of Electronic and Information Engineering (丁文华院士, 冯大权教授团队).**
-- **<span style="color:red;">Postdoctoral Position Available</span>:** We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后, 欢迎有意向者联系冯大权教授.
+- **<span style="color:red;">Postdoctoral Position Available We are continuously recruiting postdoctoral researchers. Please contact Prof. Daquan Feng at [fdquan@szu.edu.cn](mailto:fdquan@szu.edu.cn) and cc to [ypzhao@szu.edu.cn]. 课题组长期招聘博士后, 欢迎有意向者联系冯大权教授.</span>:**
 - I have been appointed as a member of the Youth Editorial Board of **Journal of Intelligent Computing and Networking (JICN)**.
 - [CFP]: We are organizing workshops on "Intelligent Surfaces and Analog Computing" at IEEE GLOBECOM 2026 and IEEE/CIC ICCC 2026. We cordially invite submissions from researchers and practitioners working in related areas.
 
@@ -50,7 +50,7 @@ His current research interests include intelligent reflecting surface (IRS), int
   Submission link: https://iccc2026.ieee-iccc.org/
 
 
-## Projects/项目
+## Projects/项目(按时间先后排序)
 
   1. 面向6G的智能体通信场景需求及关键技术研究, 移动信息网络国家科技重大专项, 2025.12–2028.11, 子课题负责人; [EN] Research on intelligent-agent communication scenarios and key technologies for 6G, National Key Research and Development Program of China, 2025.12–2028.11, Sub-I.
   2. 链网融合技术教育工程研究中心, 2025年度开放课题; [EN] Engineering Research Center of Blockchain and Network Convergence Technology, Ministry of Education, 2025 Open Research Project, PI.
