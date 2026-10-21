@@ -21,7 +21,9 @@ redirect_from:
 
 Male, born in Anhui Province, mainland China in 1998. 
 
-**Assistant Professor, Shenzhen University,** College of Electronic and Information Engineering
+**Assistant Professor, Distinguished Associate Research Fellow, Shenzhen University,** College of Electronic and Information Engineering
+
+深圳大学, 电信学院, 助理教授, 特聘副研究员
 
 Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, in August 2025, under the supervision of [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en). He received the B.Eng. degree from Jilin University in 2017 and the M.Eng. degree from Shanghai University in 2020, where he was jointly trained at the Shanghai Advanced Research Institute, Chinese Academy of Sciences.
 
