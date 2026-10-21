@@ -21,7 +21,7 @@ redirect_from:
 
 Male, born in Anhui Province, mainland China in 1998. 
 
-**Assistant Professor, Distinguished Associate Research Fellow, Shenzhen University,** College of Electronic and Information Engineering
+**Assistant Professor, Associate Research Fellow, Shenzhen University,** College of Electronic and Information Engineering
 
 深圳大学, 电信学院, 助理教授, 特聘副研究员
 
