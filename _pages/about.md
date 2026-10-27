@@ -51,9 +51,21 @@ Male, born in Anhui Province, mainland China in 1998.
 <h2 id="experiences">Experiences</h2>
 
 <ul class="experience-list">
-  <li>
+  
+<li>
     <div class="experience-heading">
-      <span>Assistant Professor, Associate Research Fellow</span>
+      <span>特聘副研究员, Associate Research Fellow</span>
+      <span class="experience-date">Oct. 2026 – Present</span>
+    </div>
+    <div class="experience-details">
+      College of Electronic and Information Engineering,
+      Shenzhen University, Shenzhen, China
+    </div>
+  </li>
+  
+ <li>
+    <div class="experience-heading">
+      <span>助理教授, Assistant Professor</span>
       <span class="experience-date">Sep. 2025 – Present</span>
     </div>
     <div class="experience-details">
@@ -62,42 +74,6 @@ Male, born in Anhui Province, mainland China in 1998.
     </div>
   </li>
 
-  <li>
-    <div class="experience-heading">
-      <span>Ph.D. in Electrical and Computer Engineering</span>
-      <span class="experience-date">Aug. 2025</span>
-    </div>
-    <div class="experience-details">
-      University of Macau, Macao SAR, China<br>
-      State Key Laboratory of Internet of Things for Smart City<br>
-      Supervisors:
-      <a href="https://www.fst.um.edu.mo/personal/shaodanma/">Prof. Shaodan Ma</a>
-      and
-      <a href="https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en">Prof. Qingqing Wu</a>
-    </div>
-  </li>
-
-  <li>
-    <div class="experience-heading">
-      <span>M.Eng.</span>
-      <span class="experience-date">2020</span>
-    </div>
-    <div class="experience-details">
-      Shanghai University, Shanghai, China<br>
-      Joint training at Shanghai Advanced Research Institute,
-      Chinese Academy of Sciences
-    </div>
-  </li>
-
-  <li>
-    <div class="experience-heading">
-      <span>B.Eng.</span>
-      <span class="experience-date">2017</span>
-    </div>
-    <div class="experience-details">
-      Jilin University, Changchun, China
-    </div>
-  </li>
 </ul>
 
 Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, in August 2025, under the supervision of [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en). He received the B.Eng. degree from Jilin University in 2017 and the M.Eng. degree from Shanghai University in 2020, where he was jointly trained at the Shanghai Advanced Research Institute, Chinese Academy of Sciences.
