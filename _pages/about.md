@@ -25,6 +25,81 @@ Male, born in Anhui Province, mainland China in 1998.
 
 深圳大学, 电信学院, 助理教授, 特聘副研究员
 
+
+<style>
+.experience-list {
+  padding-left: 1.3em;
+}
+.experience-list > li {
+  margin-bottom: 1.2em;
+}
+.experience-heading {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.2em 1em;
+}
+.experience-date {
+  white-space: nowrap;
+}
+.experience-details {
+  margin-top: 0.2em;
+  line-height: 1.6;
+}
+</style>
+
+<h2 id="experiences">Experiences</h2>
+
+<ul class="experience-list">
+  <li>
+    <div class="experience-heading">
+      <span>Assistant Professor, Associate Research Fellow</span>
+      <span class="experience-date">Sep. 2025 – Present</span>
+    </div>
+    <div class="experience-details">
+      College of Electronic and Information Engineering,
+      Shenzhen University, Shenzhen, China
+    </div>
+  </li>
+
+  <li>
+    <div class="experience-heading">
+      <span>Ph.D. in Electrical and Computer Engineering</span>
+      <span class="experience-date">Aug. 2025</span>
+    </div>
+    <div class="experience-details">
+      University of Macau, Macao SAR, China<br>
+      State Key Laboratory of Internet of Things for Smart City<br>
+      Supervisors:
+      <a href="https://www.fst.um.edu.mo/personal/shaodanma/">Prof. Shaodan Ma</a>
+      and
+      <a href="https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en">Prof. Qingqing Wu</a>
+    </div>
+  </li>
+
+  <li>
+    <div class="experience-heading">
+      <span>M.Eng.</span>
+      <span class="experience-date">2020</span>
+    </div>
+    <div class="experience-details">
+      Shanghai University, Shanghai, China<br>
+      Joint training at Shanghai Advanced Research Institute,
+      Chinese Academy of Sciences
+    </div>
+  </li>
+
+  <li>
+    <div class="experience-heading">
+      <span>B.Eng.</span>
+      <span class="experience-date">2017</span>
+    </div>
+    <div class="experience-details">
+      Jilin University, Changchun, China
+    </div>
+  </li>
+</ul>
+
 Yapeng Zhao received the Ph.D. degree in Electrical and Computer Engineering from the [State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC)](https://skliotsc.um.edu.mo/), University of Macau, in August 2025, under the supervision of [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/) and [Prof. Qingqing Wu](https://scholar.google.com/citations?user=as1T8CMAAAAJ&hl=en). He received the B.Eng. degree from Jilin University in 2017 and the M.Eng. degree from Shanghai University in 2020, where he was jointly trained at the Shanghai Advanced Research Institute, Chinese Academy of Sciences.
 
 His current research interests include intelligent reflecting surface (IRS), integrated sensing and communications (ISAC), integrated sensing, communications, and computation (ISCC), multi-modal ISAC, and immersive communication. He has a strong background in wireless communications and mathematical skills, especially the non-convex optimization for wireless communication system. **He has published several papers on wireless communication systems inclouding 5 first author journal papers. with total <a href='https://scholar.google.com/citations?user=vBmgzKYAAAAJ'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYapeng-Zhao%2FYapeng-Zhao.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a> google scholar citations.**
